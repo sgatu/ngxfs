@@ -1,2 +1,2 @@
 # ngxfs
-Virtual Fuse FileSystem in charge to count nginx response codes
+Virtual Fuse FileSystem in charge of counting nginx response codes
